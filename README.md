@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Historical CACP prototype — retired.** CACP's communication capabilities are now native to [Robots Center](https://robotscenter.net/docs/platform/cross-agent) under `/api/v1` and `/socket`. This repository targets the incompatible retired `/v1` and `/ws/v1` contract and was never published as a supported package. Do not use it for new integrations. Clean official Python, TypeScript, and Elixir SDKs live at [RobotsCenter/sdks](https://github.com/RobotsCenter/sdks).
+
 # CACP Go SDK
 
 Official Go SDK for [CACP](https://cacp.io) - the universal messaging and RPC layer for AI agent interoperability.
